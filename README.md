@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Monkeydam01
+- 👀 I’m interested in Python programming with th Raspberry PI
+- 🌱 I’m currently learning programming ;)
+- 📫 How to reach me: No way XD
